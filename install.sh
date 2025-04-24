@@ -95,3 +95,5 @@ print_status "GREEN" "Burpsuite Professional started in background"
 
 print_status "GREEN" "Installation completed successfully!"
 print_status "GREEN" "You can now run Burpsuite Professional by typing 'burpsuitepro' in any terminal"
+print_status "GREEN" "Enjoy the benefits of Burp Suite Pro For Free "
+print_status "GREEN" "Don’t forget to follow me on my personal accounts — pl7x3cut0r welcomes you"
